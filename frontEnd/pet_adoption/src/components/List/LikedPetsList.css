@@ -1,0 +1,9 @@
+.petCard{
+    margin: 10px;
+    border: 1px solid rgb(241, 194, 194);
+}
+
+.card-wrapper{
+      grid-column-gap: 50px;
+
+}

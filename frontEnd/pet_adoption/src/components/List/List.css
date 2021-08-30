@@ -1,0 +1,78 @@
+
+
+.container1 {
+	background-color: #fff;
+	border-radius: 5px;
+	box-shadow: 0 10px 10x rgba(0, 0, 0, 0.356);
+	margin-top: 20px;
+	cursor: pointer;
+	margin: 0 auto;
+	margin: 20px;
+	height: 500px;
+}
+img {
+	height: 300px;
+	width: 300px;
+}
+
+.card-info{
+	color: #aeaedb;
+}
+
+.info-btn {
+
+	border: none;
+	outline: none;
+	align-items: center;
+	justify-content:center;
+	background-color: #31a5f3;
+	color: #fff;
+	padding: 22px 45px;
+	font-size: 1rem;
+	text-transform: uppercase;
+	border-radius: 5px;
+	cursor: pointer;
+	width: 100%;
+}
+.container1 .info-btn i {
+	margin-left: 20px;
+	font-size: 1.5rem;
+}
+.container__text {
+	padding: 40px 40px 0;
+}
+.container__text h1 {
+	color: #351897;
+	font-weight: 400;
+}
+.container__text .container__text__star span {
+	font-size: 0.8rem;
+	color: #ffa800;
+	margin: -5px 0 20px;
+}
+.container__text p {
+	font-size: 0.9rem;
+}
+.container__text .container__text__timing {
+	display: flex;
+	margin: 20px 0 10px;
+}
+.container__text .container__text__timing .container__text__timing_time {
+	margin-right: 40px;
+}
+.container__text .container__text__timing h2 {
+	margin-bottom: 5px;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #818189;
+}
+.container__text .container__text__timing p {
+	color: #351897;
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+
+.info-btn {
+	background-color: none !important;
+	border: none !important;
+}

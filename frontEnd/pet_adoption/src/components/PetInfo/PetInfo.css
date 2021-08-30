@@ -1,0 +1,68 @@
+.pet-img-info {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-left: 50px;
+}
+
+.pet-img-status {
+	margin-left: 300px;
+}
+
+.pet-img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+
+	margin-bottom: 15px;
+	transition: all 0.3s ease;
+}
+
+.pet-img:hover {
+	width: 50vw;
+	height: 80vh;
+	border-radius: 6px;
+}
+
+.adoption-status {
+	text-align: center;
+}
+
+.pet-info-ul {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	font-size: 16px;
+}
+
+ul {
+	margin-left: 150px;
+	line-height: 20px;
+}
+
+.bio {
+	width: 1000px;
+	margin: 15px 50px;
+}
+
+.btn-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 25px;
+}
+
+.btn-info {
+  margin: 10px;
+}
+
+.icon {
+	background: none;
+	border: none;
+}
+
+.icon:hover {
+	background: none;
+	border: none;
+}
+

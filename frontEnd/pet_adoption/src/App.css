@@ -1,0 +1,60 @@
+
+.brand {
+	color: #ccbb4e !important;
+	font-family: "Pacifico", cursive;
+	margin-right: 70%;
+	font-size: 40px;
+}
+
+.home-img {
+	height: 100px;
+	width: 100px;
+}
+
+.login {
+	margin-left: 65vw;
+	background-color: rgb(248, 205, 205);
+}
+
+#dropdown-basic::after {
+	display: none;
+}
+
+.nav-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.login-btn {
+	background: none;
+}
+
+.search-wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+}
+
+.not-register-link {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+p {
+	margin-right: 5px;
+}
+.not-register-link:hover {
+	color: #82a4ec;
+}
+
+#drop:hover {
+	background-color: #ffd9d9;
+}
+
+.divider {
+	color: rgb(0, 0, 0);
+}

@@ -1,0 +1,48 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  text-align: center;
+}
+
+.admin-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#section1 {
+  min-height: 150px;
+  width: 600px;
+}
+
+#section2 {
+  min-height: 150px;
+  width: 600px;
+}
+
+.add-pet-form {
+  width: 650px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 50px auto;
+  padding: 15px 20px;
+}
+
+.add-pet-checkboxes {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.add-pet-btn {
+  margin: 15px 0 10px 83%;
+  padding: 5px 20px;
+}
+
+.users-list {
+  color: #fff;
+  background-color:#333
+}
